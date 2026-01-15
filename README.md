@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="PASTE_YOUR_LINK_HERE">Programming Foundations: Code, Logic & Problem Solving</a>
+  <a href="https://tinyurl.com/2drbx5rm">Programming Foundations: Code, Logic & Problem Solving</a>
 </h2>
 
 ### Unit 1: Introduction to Programming and Problem Solving
