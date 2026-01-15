@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/programming-foundations.gif"
+       alt="Programming Foundations"
+       width="100%">
+</p>
+
 <h2 align="center">
   <a href="https://tinyurl.com/2drbx5rm">Programming Foundations: Code, Logic & Problem Solving</a>
 </h2>
