@@ -58,7 +58,7 @@
 
 
 <h2 align="center">
-  <a href="https://tinyurl.com/2drbx5rm">Structured Programming and Defensive Techniques</a>
+  <a href="https://tinyurl.com/4pwfkkwh">Structured Programming and Defensive Techniques</a>
 </h2>
 
 
